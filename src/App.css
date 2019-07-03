@@ -1,3 +1,18 @@
+/* .searchmovie
+{
+  height: 100%;
+   width: 100%;
+   margin-left: 0%;
+   margin-right: 100%;
+   border: #61dafb;
+  border-collapse: collapse;
+} */
+
+.row
+{
+  margin-bottom: 6%;
+  margin-top: 1%;
+}
 .App {
   text-align: center;
 }
@@ -31,3 +46,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
